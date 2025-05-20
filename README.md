@@ -1,2 +1,2 @@
 # IntentMaster
-IntentMaster-563
+IntentM-563
